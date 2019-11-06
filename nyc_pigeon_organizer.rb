@@ -1,3 +1,5 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  pigeons_hash = {}
+  pigeon_names = [data.collect {|gender| [:male. ""] || [:female, ""]}]
+
 end
